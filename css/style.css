@@ -51,9 +51,14 @@ code, pre{
     padding: 10px;
 }
 
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
 
 
-/* Navvar Styling */
+
+/* Navbar Styling */
 
 .navbar{
     background-color: var(--primary-color);
